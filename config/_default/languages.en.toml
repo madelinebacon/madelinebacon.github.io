@@ -1,0 +1,26 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+
+title = "Madeline Bacon's Personal Webpage"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+[params]
+  isoCode = "en"
+  displayName = "EN"
+  rtl = false
+
+  dateFormat = "2 January 2006"
+
+  # mainSections = ["section1", "section2"]
+   description = "My awesome website"
+
+[author]
+   name = "Madeline Bacon"
+   image = "img/author.jpg"
+   headline = "I'm only human"
+   bio = "I'm a goofball"
+   links = [
+     { email = "mailto:madebacon00000@gmail.com" },
+
+   ]
