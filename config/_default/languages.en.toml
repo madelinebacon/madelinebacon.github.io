@@ -2,7 +2,7 @@ languageCode = "en"
 languageName = "English"
 weight = 1
 
-title = "Madeline Bacon's Personal Webpage"
+title = "Got Bacon?"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
@@ -10,7 +10,7 @@ title = "Madeline Bacon's Personal Webpage"
   displayName = "EN"
   rtl = false
 
-  dateFormat = "2 January 2006"
+  dateFormat = "2006-01-02"
 
   # mainSections = ["section1", "section2"]
    description = "My awesome website"
@@ -22,5 +22,4 @@ title = "Madeline Bacon's Personal Webpage"
    bio = "I'm a goofball"
    links = [
      { email = "mailto:madebacon00000@gmail.com" },
-
    ]
