@@ -11,25 +11,25 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "About Me"
-  pageRef = "posts"
-  weight = 10
+  name = "About"
+  pageRef = "about"
+  weight = 1
+
+[[main]]
+  name = "Posts"
+  pageRef = "/posts/"
+  weight = 3
 
 [[main]]
   name = "Research"
-  pageRef = "categories"
-  weight = 20
+  pageRef = "research"
+  weight = 2
 
 [[main]]
-  name = "Extracurricular"
-  pageRef = "tags"
-  weight = 30
+  name = "Extracurriculars"
+  pageRef = "extras"
+  weight = 4
 
-[[main]]
-  identifier = "search"
-  weight = 99
-  [main.params]
-    action = "search"
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
