@@ -1,10 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Madeline Bacon&#39;s Personal Webpage</title>
+    <title>Got Bacon?</title>
     <link>https://madelinebacon.github.io/</link>
-    <description>Recent content on Madeline Bacon&#39;s Personal Webpage</description>
+    <description>Recent content on Got Bacon?</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://madelinebacon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 27 Jul 2023 16:10:19 -0700</lastBuildDate><atom:link href="https://madelinebacon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2nd Post</title>
+      <link>https://madelinebacon.github.io/posts/2nd_post/</link>
+      <pubDate>Thu, 27 Jul 2023 16:10:19 -0700</pubDate>
+      
+      <guid>https://madelinebacon.github.io/posts/2nd_post/</guid>
+      <description>2nd Post!</description>
+    </item>
+    
+    <item>
+      <title>Extracurriculars</title>
+      <link>https://madelinebacon.github.io/extras/</link>
+      <pubDate>Wed, 26 Jul 2023 15:47:18 -0700</pubDate>
+      
+      <guid>https://madelinebacon.github.io/extras/</guid>
+      <description>Some stuff about me you won&amp;rsquo;t find on a CV!</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://madelinebacon.github.io/research/</link>
+      <pubDate>Wed, 26 Jul 2023 15:43:04 -0700</pubDate>
+      
+      <guid>https://madelinebacon.github.io/research/</guid>
+      <description>Learning learning learning!</description>
+    </item>
+    
+    <item>
+      <title>First Post!</title>
+      <link>https://madelinebacon.github.io/posts/first_post/</link>
+      <pubDate>Wed, 26 Jul 2023 15:34:12 -0700</pubDate>
+      
+      <guid>https://madelinebacon.github.io/posts/first_post/</guid>
+      <description>Hey there, lovely souls!</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://madelinebacon.github.io/about/</link>
+      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://madelinebacon.github.io/about/</guid>
+      <description>Welcome to my website!</description>
+    </item>
+    
   </channel>
 </rss>
