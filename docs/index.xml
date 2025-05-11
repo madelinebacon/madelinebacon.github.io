@@ -1,56 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Got Bacon?</title>
-    <link>https://madelinebacon.github.io/</link>
-    <description>Recent content on Got Bacon?</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 27 Jul 2023 16:10:19 -0700</lastBuildDate><atom:link href="https://madelinebacon.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>2nd Post</title>
-      <link>https://madelinebacon.github.io/posts/2nd_post/</link>
-      <pubDate>Thu, 27 Jul 2023 16:10:19 -0700</pubDate>
-      
-      <guid>https://madelinebacon.github.io/posts/2nd_post/</guid>
-      <description>2nd Post!</description>
-    </item>
-    
-    <item>
-      <title>Extracurriculars</title>
-      <link>https://madelinebacon.github.io/extras/</link>
-      <pubDate>Wed, 26 Jul 2023 15:47:18 -0700</pubDate>
-      
-      <guid>https://madelinebacon.github.io/extras/</guid>
-      <description>Some stuff about me you won&amp;rsquo;t find on a CV!</description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>https://madelinebacon.github.io/research/</link>
-      <pubDate>Wed, 26 Jul 2023 15:43:04 -0700</pubDate>
-      
-      <guid>https://madelinebacon.github.io/research/</guid>
-      <description>Learning learning learning!</description>
-    </item>
-    
-    <item>
-      <title>First Post!</title>
-      <link>https://madelinebacon.github.io/posts/first_post/</link>
-      <pubDate>Wed, 26 Jul 2023 15:34:12 -0700</pubDate>
-      
-      <guid>https://madelinebacon.github.io/posts/first_post/</guid>
-      <description>Hey there, lovely souls!</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://madelinebacon.github.io/about/</link>
-      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://madelinebacon.github.io/about/</guid>
-      <description>Welcome to my website!</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Got Bacon?</title><link>https://madelinebacon.github.io/</link><description>Recent content on Got Bacon?</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 11 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://madelinebacon.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://madelinebacon.github.io/about/</link><pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate><guid>https://madelinebacon.github.io/about/</guid><description>&lt;p>Welcome! My name is Madeline Bacon, and I&amp;rsquo;m from Maryland with a passion for psychology and research. I graduated from the University of California, Santa Barbara (UCSB), where I delved deep into the fascinating world of psychology.&lt;/p>
+&lt;p>As a curious and enthusiastic learner, my academic journey has been an exciting exploration of the human mind and behavior. I am particularly intrigued by the intricate workings of the brain and how it influences our thoughts, emotions, and actions.&lt;/p></description></item><item><title>Extracurriculars</title><link>https://madelinebacon.github.io/extras/</link><pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate><guid>https://madelinebacon.github.io/extras/</guid><description>&lt;h3 id="some-stuff-about-me-you-wont-find-on-a-cv">
+ Some stuff about me you won&amp;rsquo;t find on a CV!
+ &lt;a class="heading-link" href="#some-stuff-about-me-you-wont-find-on-a-cv">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;p>As of right now, everthing you need to know about me is on my CV - grad apps will that do to you.&lt;/p></description></item><item><title>Of Mice and Mountains: A New Chapter Begins</title><link>https://madelinebacon.github.io/posts/5-11_post/</link><pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate><guid>https://madelinebacon.github.io/posts/5-11_post/</guid><description>&lt;p>Hi, I’m Made —life took a turn,&lt;br>
+Left New York streets for labs where I learn.&lt;br>
+Now I’m going to L.A., where palm trees are nice,&lt;br>
+But mostly I’m here to study some mice.&lt;/p>
+&lt;p>Neuroscience! Brains! A glamorous grind,&lt;br>
+Staring at neurons and losing my mind.&lt;br>
+It’s scary! It’s sunny! I barely go out—&lt;br>
+But hey, the mice seem chill (no doubt).&lt;/p></description></item><item><title>Research</title><link>https://madelinebacon.github.io/research/</link><pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate><guid>https://madelinebacon.github.io/research/</guid><description>&lt;h3 id="learning-learning-learning">
+ Learning learning learning!
+ &lt;a class="heading-link" href="#learning-learning-learning">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;p>I&amp;rsquo;m learning but I promise to let you know as soon as I figure it out myself.&lt;/p></description></item></channel></rss>
