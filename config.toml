@@ -1,0 +1,69 @@
+theme = "github.com/luizdepra/hugo-coder"
+baseURL = "https://madelinebacon.github.io/"
+title = "Got Bacon?"
+languageCode = "en"
+defaultContentLanguage = "en"
+enableEmoji = true
+
+[module]
+  [[module.imports]]
+    path = "github.com/luizdepra/hugo-coder"
+
+  
+
+[params]
+  author = "Madeline Bacon"
+  info = "UCLA PhD Student"
+  description = "My personal site"
+  avatarURL = "images/hs.jpg"
+  dateFormat = "Jan 2, 2006"
+  enableEmoji = true
+  colorScheme = "dark"
+  favicon_16 = "images/mouse.ico"
+
+  # Socials
+  [[params.social]]
+    name = "GitHub"
+    icon = "fa fa-github"
+    weight = 1
+    url = "https:///github.com/madelinebacon"
+
+  [[params.social]]
+    name = "LinkedIn"
+    icon = "fa fa-linkedin"
+    weight = 2
+    url = "https://www.linkedin.com/in/madeline-elizabeth-bacon/"
+
+  [[params.social]]
+    name = "Email"
+    icon = "fa fa-envelope"
+    weight = 3
+    url = "mailto:madelinebacon@ucsb.edu"
+
+  [[params.social]]
+    name = "Twitter"
+    icon = "fa fa-twitter"
+    weight = 4
+    url = "https://x.com/madebacon"
+
+[menu]
+
+  [[menu.main]]
+    name = "About"
+    pageRef = "about"
+    weight = 1
+
+  [[menu.main]]
+    name = "Research"
+    pageRef = "research"
+    weight = 2
+
+  [[menu.main]]
+    name = "Posts"
+    pageRef = "/posts/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Extracurriculars"
+    pageRef = "extras"
+    weight = 4

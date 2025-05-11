@@ -1,10 +1,8 @@
 ---
 title: "Research"
-date: 2023-07-26T15:43:04-07:00
+date: 2025-05-11
 ---
 
+### Learning learning learning!
 
-### Learning learning learning! 
-
-So what exactly is it that I do? 
-
+I'm learning but I promise to let you know as soon as I figure it out myself.

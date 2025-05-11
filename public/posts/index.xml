@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Got Bacon?</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Got Bacon?</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 11 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Of Mice and Mountains: A New Chapter Begins</title>
+      <link>http://localhost:1313/posts/5-11_post/</link>
+      <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/5-11_post/</guid>
+      <description>&lt;p&gt;Hi, I’m Made —life took a turn,&lt;br&gt;&#xA;Left New York streets for labs where I learn.&lt;br&gt;&#xA;Now I’m going to L.A., where palm trees are nice,&lt;br&gt;&#xA;But mostly I’m here to study some mice.&lt;/p&gt;&#xA;&lt;p&gt;Neuroscience! Brains! A glamorous grind,&lt;br&gt;&#xA;Staring at neurons and losing my mind.&lt;br&gt;&#xA;It’s scary! It’s sunny! I barely go out—&lt;br&gt;&#xA;But hey, the mice seem chill (no doubt).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
